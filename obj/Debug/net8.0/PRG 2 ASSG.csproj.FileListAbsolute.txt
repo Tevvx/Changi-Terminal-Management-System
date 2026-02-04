@@ -1,0 +1,18 @@
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\bin\Debug\net8.0\PRG 2 ASSG.exe
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\bin\Debug\net8.0\PRG 2 ASSG.deps.json
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\bin\Debug\net8.0\PRG 2 ASSG.runtimeconfig.json
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\bin\Debug\net8.0\PRG 2 ASSG.dll
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\bin\Debug\net8.0\PRG 2 ASSG.pdb
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\obj\Debug\net8.0\PRG 2 ASSG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\obj\Debug\net8.0\PRG 2 ASSG.AssemblyInfoInputs.cache
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\obj\Debug\net8.0\PRG 2 ASSG.AssemblyInfo.cs
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\obj\Debug\net8.0\PRG 2 ASSG.csproj.CoreCompileInputs.cache
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\obj\Debug\net8.0\PRG 2 ASSG.sourcelink.json
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\obj\Debug\net8.0\PRG 2 ASSG.dll
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\obj\Debug\net8.0\refint\PRG 2 ASSG.dll
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\obj\Debug\net8.0\PRG 2 ASSG.pdb
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\obj\Debug\net8.0\PRG 2 ASSG.genruntimeconfig.cache
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\obj\Debug\net8.0\ref\PRG 2 ASSG.dll
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\bin\Debug\net8.0\airlines.csv
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\bin\Debug\net8.0\boardinggates.csv
+C:\Users\tevin\Source\Repos\Tevvx\PRG-2-ASSG\PRG 2 ASSG\bin\Debug\net8.0\flights.csv
